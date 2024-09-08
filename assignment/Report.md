@@ -1,1 +1,1 @@
-
+Exercise 1: min_bright = 2000 and max_bright = 33000, we found these values to give us a duty cycle of about 1 when it was very dark and a duty cycle of 0 when very bright. The value was hovering around 33000 when shining a bright light on the photocell and using the equation of the duty cycle would get around 1. Testing with our new value of 33000 for max_bright, 2000 gave us a negative number which would clip to 0.
