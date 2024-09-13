@@ -2,4 +2,16 @@ Exercise 1: max_bright = 600 and min_bright = 47000, we found these values to gi
 
 Exercise 2: We made the beginning of Hedwig's theme from Harry Potter
 
-Exercise 3: 
+Exercise 3: We used Google Firebase and uploaded 2 trials with 10 attempts with data of the max, min, avg times, misses and total score. Screenshots are included
+
+
+
+https://github.com/user-attachments/assets/2824e44f-ceb6-4a91-8a64-c11d19075918
+
+
+
+https://github.com/user-attachments/assets/030fa978-6085-4b1f-9e91-f3eb03f84bf5
+
+
+https://github.com/user-attachments/assets/b9ac818b-a6cd-46d4-8483-278dacfd6e6c
+
